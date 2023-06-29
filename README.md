@@ -4,6 +4,7 @@
 
 ![demo-part-1](https://github.com/aminblm/linkedin-email-finder/assets/25132838/4245d582-3599-4b98-a3c6-b06454c29921)
 
+[*Higher resolution demo*](https://www.loom.com/share/fffe32390de1450d8e3786799dc7f924?sid=9552a428-98e9-4ec4-9027-8ddb3d2d4e0b)
 
 ## Important Note
 Scraping data off of LinkedIn is against their [User Agreement](https://www.linkedin.com/legal/user-agreement). This is purely intended for educational purposes.
