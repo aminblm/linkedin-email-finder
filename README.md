@@ -1,7 +1,8 @@
 # The LinkedIn Email Finder
 
 ### A node web scraper to extract your linkedin connection emails
-*Currently not being actively maintained, but open to Pull Requests.*
+
+![image](https://github.com/aminblm/linkedin-email-finder/assets/25132838/fe112f98-0ed5-4729-ab04-ffc71876441f)
 
 ## Important Note
 Scraping data off of LinkedIn is against their [User Agreement](https://www.linkedin.com/legal/user-agreement). This is purely intended for educational purposes.
